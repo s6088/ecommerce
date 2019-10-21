@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881465388625",
+    "firebase_url": "https://workshop-43114.firebaseio.com",
+    "project_id": "workshop-43114",
+    "storage_bucket": "workshop-43114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881465388625:android:e1fc2080938ef8ff5bd270",
+        "android_client_info": {
+          "package_name": "xyz.themiddleman.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881465388625-v2tddn5olh5hlea1ckd8e57v73ete3iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.themiddleman.firebase",
+            "certificate_hash": "5b1868fd2d3305aa3624b2e53566d8bc58beb188"
+          }
+        },
+        {
+          "client_id": "881465388625-t0q766nqi4cag5nmfqfpbmjo2hqd4d8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0buTgl8S6_Ebl29dqCuNtqobtXIjq1MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881465388625-t0q766nqi4cag5nmfqfpbmjo2hqd4d8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
