@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:padding="6dp"
+        android:background="#62ADE9"
+        android:id="@+id/msg"
+        android:textSize="17sp"
+        android:layout_alignParentRight="true"
+        android:text="hi, whats up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></TextView>
+
+    <TextView
+        android:id="@+id/sender"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/msg"
+        android:text="Alice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+</RelativeLayout>

@@ -51,6 +51,7 @@ public class LoginActivity extends AppCompatActivity {
                                 if(auth.getCurrentUser().isEmailVerified()){
                                     Intent intent = new Intent(LoginActivity.this, HomeActivity.class);
                                     startActivity(intent);
+                                    finish();
                                 }
                                 else {
                                     make("please verify your email");
